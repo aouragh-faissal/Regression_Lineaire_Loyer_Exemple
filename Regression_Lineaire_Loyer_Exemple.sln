@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Regression_Lineaire_Loyer_Exemple", "Regression_Lineaire_Loyer_Exemple.pyproj", "{918C9576-4E0D-4956-8F08-EA03E4B16001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918C9576-4E0D-4956-8F08-EA03E4B16001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918C9576-4E0D-4956-8F08-EA03E4B16001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C4F9DD-50BB-48DB-A319-6924E857B703}
+	EndGlobalSection
+EndGlobal
